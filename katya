@@ -1,1 +1,1 @@
-cout << "Priveet";
+std::cout << "Priveet";
